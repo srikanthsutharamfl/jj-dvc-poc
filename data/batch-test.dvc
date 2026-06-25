@@ -1,0 +1,6 @@
+outs:
+- md5: f524b5b1a87c0d58cba6034a093f50fd.dir
+  size: 6211063586
+  nfiles: 1205
+  hash: md5
+  path: batch-test
